@@ -4,16 +4,6 @@
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://sistemtoko.com/login)
 
-### Feature Website  KasirAja Yang di Test :
-
-- Dasboard
-- Penjualan
-- Pembelian
-- Kategori
-- Produk
-- Pengguna
-- Pelanggan 
-
 ### Tech
 
 - Cypress.io
